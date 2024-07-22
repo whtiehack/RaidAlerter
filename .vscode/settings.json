@@ -1,0 +1,28 @@
+{
+    "Lua.diagnostics.globals": [
+        "StaticPopupDialogs",
+        "LOOT_FREE_FOR_ALL",
+        "LOOT_ROUND_ROBIN",
+        "LOOT_MASTER_LOOTER",
+        "LOOT_GROUP_LOOT",
+        "LOOT_NEED_BEFORE_GREED",
+        "SlashCmdList",
+        "STATICPOPUP_NUMDIALOGS",
+        "UIDropDownMenu_SetSelectedID",
+        "ChatFrame_AddMessageEventFilter",
+        "InspectUnit",
+        "UIDropDownMenu_AddButton",
+        "NORMAL_FONT_COLOR",
+        "NONE",
+        "InspectFrame",
+        "DEFAULT_CHAT_FRAME",
+        "UIErrorsFrame",
+        "ReloadUI",
+        "StaticPopup_Show",
+        "LE_PARTY_CATEGORY_INSTANCE",
+        "LE_PARTY_CATEGORY_HOME",
+        "ItemRefTooltip",
+        "TARGET",
+        "SetRaidTargetIcon"
+    ]
+}
